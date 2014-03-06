@@ -8,7 +8,7 @@
 			"其他": "posts/other"
         },
 
-    "template"    : "slate",
+    "template"    : "phase",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
