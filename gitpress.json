@@ -1,6 +1,14 @@
 {
-    "docs"      : {"category1":"post","category2":'Readme.md',"category2":"Readme2.md"},      
-    "template"    : "tactile",
+	"docs": {
+			"关于我的博客": "README.md",
+			"Intro": "README2.md",
+			"Structure": "post/structure",
+			"Presentation": "post/presentation",
+			"Behavior": "post/behavior",
+			"其他": "posts/other"
+        },
+
+    "template"    : "slate",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
