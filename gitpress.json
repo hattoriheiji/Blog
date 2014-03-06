@@ -1,0 +1,3 @@
+touch gitpress.json & echo '{}' > gitpress.json
+git add gitpress.json
+git commit -a -m 'add gitpress configure' & git push origin master
