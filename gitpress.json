@@ -1,6 +1,6 @@
 {
     "docs"      : ["README.md", "docs"],      
-    "template"    : "default",
+    "template"    : "tactile",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
