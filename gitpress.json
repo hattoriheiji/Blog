@@ -1,5 +1,5 @@
 {
-    "docs"      : ["README.md", "docs"],      
+    "docs"      : {"category1":"post","category2":'Readme.md',"category2":"Readme2.md"},      
     "template"    : "tactile",
     "perpage"   : 10,
     "order"  : "number",
