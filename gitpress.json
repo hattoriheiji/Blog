@@ -1,7 +1,6 @@
 {
     "docs"      : ["posts"],
     "template"    : "phase",
-    "domain_alias" :  ["your.domain"],    
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
@@ -10,7 +9,7 @@
         "\\.html?$"            : "html",
         ".*"                   : "text"        
     },
-    "title"  : "Akira's Blog",
+    "title"  : "Hattori's Blog",
     "description" : "My Blog Description...",
     "comment"  : {"type":"disqus", "short_name":"gitpress"},
     "friends"  : [
